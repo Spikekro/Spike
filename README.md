@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dali wong
+- 👋 Hi, I’m Spike
 - 👀 I’m interested in playing basketball
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on data processing
